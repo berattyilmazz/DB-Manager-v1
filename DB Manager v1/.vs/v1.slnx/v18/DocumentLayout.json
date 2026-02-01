@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|solutionrelative:v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|c:\\users\\berat\\desktop\\deneme2\\v1\\v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|solutionrelative:v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|c:\\users\\berat\\desktop\\deneme2\\v1\\v1\\patientdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|solutionrelative:v1\\patientdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|c:\\users\\berat\\desktop\\deneme2\\v1\\v1\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|solutionrelative:v1\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|c:\\users\\berat\\desktop\\deneme2\\v1\\v1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476C0000-1B28-0F9B-ED38-47C8878854C0}|v1\\v1.csproj|solutionrelative:v1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientDAL.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\PatientDAL.cs",
+              "RelativeDocumentMoniker": "v1\\PatientDAL.cs",
+              "ToolTip": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\PatientDAL.cs",
+              "RelativeToolTip": "v1\\PatientDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:43:54.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\Patient.cs",
+              "RelativeDocumentMoniker": "v1\\Patient.cs",
+              "ToolTip": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\Patient.cs",
+              "RelativeToolTip": "v1\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:43:44.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "v1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\Form1.Designer.cs",
+              "RelativeToolTip": "v1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T22:07:18.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\Form1.cs",
+              "RelativeDocumentMoniker": "v1\\Form1.cs",
+              "ToolTip": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\Form1.cs",
+              "RelativeToolTip": "v1\\Form1.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAcwNkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T22:07:10.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\Form1.cs",
+              "RelativeDocumentMoniker": "v1\\Form1.cs",
+              "ToolTip": "C:\\Users\\berat\\Desktop\\deneme2\\v1\\v1\\Form1.cs [Design]",
+              "RelativeToolTip": "v1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T21:50:14.019Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
